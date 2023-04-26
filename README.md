@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [**Kevin**](https://kevsong.com)
 - 👀 I’m interested in **Web Development**
-- 🌱 I’m always open for **better opportunities**
+- 🌱 I’m always open for **new opportunities**
 - 📫 Visit my [**portfolio website**](https://kevsong.com) to know more about me!
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
